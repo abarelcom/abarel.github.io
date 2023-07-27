@@ -1,5 +1,5 @@
 # Site Settings
-name: Abarel Stusio
+name: Abarel
 title: Abarel | A film studio for all
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
@@ -107,4 +107,5 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+#version: v3.1.2
+version: Film Studio
