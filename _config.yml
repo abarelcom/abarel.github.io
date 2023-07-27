@@ -93,6 +93,7 @@ plugins:
 
 # Exclude my node related stuff
 exclude: [
+
   'package.json',
   'package-lock.json',
   'src',
@@ -101,7 +102,8 @@ exclude: [
   'Gemfile',
   'Gemfile.lock',
   'gulpfile.js',
-  'README.md'
+  'README.md',
+  'vendor'
 ]
 
 # Theme
