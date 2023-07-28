@@ -46,7 +46,7 @@ layout: page
     {% assign author_urls = author_urls | append: '"https://www.instagram.com/' | append: page.instagram_username | append: '",' %}
 {% endif %}
 {% if page.linkedin_username %}
-    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/in/' | append: page.linkedin_username | append: '",' %}
+    {% assign author_urls = author_urls | append: '"https://www.linkedin.com/' | append: page.linkedin_username | append: '",' %}
 {% endif %}
 
 <script type="application/ld+json">
