@@ -1,16 +1,17 @@
 ---
-date: 2019-11-22 12:26:40
+date: 24 Jul 2020 12:26:40
 layout: post
-title: Why books should be your priority?
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Adriatica Swiss Watch - TV Commercial
+subtitle: Commercial
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://www.youtube.com/embed/wH3V3HoIDUw
+image: 
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
-category: life
+category: E-commerce
 tags:
-  - books
-  - read
-author: mranderson
+  - TV commercial
+  - Ads
+  - E-commerce
+author: Abarel Studio 
 paginate: true
 ---
 <iframe width="960" height="540" src="https://www.youtube.com/embed/wH3V3HoIDUw" title="Adriatica A3732 Swiss Watch - TV Commercial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
