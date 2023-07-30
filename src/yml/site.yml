@@ -1,13 +1,12 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Abarel Studio
+title: Abarel | Video production company
+description: Abarel is multinational company based in Kraków. Specialized in video production for companies.
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - abarel
+  - video
+  - animation
+  - production
+  - casting
 show_hero: true
 menu:
   - title: Home
@@ -20,7 +19,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: studio@abarel.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
