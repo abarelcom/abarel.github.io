@@ -14,7 +14,7 @@ tags:
 author: Ireneusz Szandała 
 paginate: true
 ---
-<iframe width="960" height="540" src="https://www.youtube.com/embed/wH3V3HoIDUw" title="Adriatica A3732 Swiss Watch - TV Commercial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/496427464?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="The Lovepost - Decolonise Your Mind"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Advertisement commissioned by Alkor the exclusive distributor of Swiss Adriatica watches. Material prepared for broadcast on TV for the new spring collection of Adriatica. 
 
