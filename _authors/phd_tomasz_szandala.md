@@ -9,6 +9,6 @@ github_username: szandala
 facebook_username:  
 twitter_username:  
 instagram_username:  
-linkedin_username: tomasz-szandala
-medium_username: medium_username
+linkedin_username: in/tomasz-szandala
+medium_username: 
 ---
