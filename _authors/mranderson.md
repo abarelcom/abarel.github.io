@@ -11,4 +11,5 @@ twitter_username:
 instagram_username: abarel_studio
 linkedin_username: company/abarel-studio
 medium_username: 
+vimeo_username: test
 ---
