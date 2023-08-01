@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: ../assets/img/uploads/irek_szandala.png
+photo: ../assets/img/uploads/irek_szandala.jpg
 name: irek_szandala
 display_name: Irek Szandala 
 position: Post-production Supervisor
