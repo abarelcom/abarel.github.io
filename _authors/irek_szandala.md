@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: ../assets/img/uploads/irek_szandala.png
-name: irekszandala
+name: irek_szandala
 display_name: Irek Szandala 
 position: Post-production Supervisor
 bio: A a free motion designer and Cinematographer 
