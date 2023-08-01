@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: ../assets/img/uploads/tomasz_szandalae.gif
+photo: ../assets/img/uploads/tomasz_szandala.gif
 name: tomasz_szandala
 display_name: PhD Tomasz Szandala 
 position: What's Up Doc?
