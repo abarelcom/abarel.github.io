@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: ../assets/img/uploads/abarel_profile.png
-name: mranderson
+name: abarel
 display_name: Abarel Studio Team 
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
