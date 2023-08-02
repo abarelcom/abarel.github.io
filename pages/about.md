@@ -3,7 +3,7 @@ layout: page
 menu: false
 date: '2020-02-27 01:53:59'
 title: About Abarel
-description: Abarel Studio is a video production and online B2B marketing agency that specializes in creating engaging brand content, animated explainers, TV ads, food commercials, event content, and much more, including ads created with the help of AI.
+description: Abarel | video production agency that specializes in creating engaging brand content, animated explainers, food videos, and TV ads, including commercials created by AI.
 permalink: /about/
 ---
 
