@@ -1,13 +1,14 @@
 # Site Settings
 name: Abarel
 title: Abarel | A film studio for all
-description: Unleash Your Brand's Potential with Abarel Studios | Top Video Production for Ads, Commercials, TV Billboards, and Explainer Videos.
+description: Unleash Your Brand's Potential with Abarel Studios | Top Video Production for Ads, Commercials, TV Billboards, Product Videos, Brand Videos, Animations, Social Media Videos, Explainer Videos and Video Marketing.
 tags:
   - blog
   - commercials
-  - explainer video
+  - design
   - photography
-  - animation
+  - design
+  -
 show_hero: true
 menu:
   - title: Home
