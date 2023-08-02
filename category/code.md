@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Code
-slug: code
-description: A category for code related posts.
+title: Graphic design 
+slug: graphic design
+description: A category for project graphic design.
 ---
