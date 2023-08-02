@@ -16,6 +16,9 @@ From masterpieces born of human ingenuity to groundbreaking ads conjured with th
 
 Our productions are made explicitly for all communication purposes. From concept and scriptwriting to image recording and post-production, sound mixing up to delivering the final product for commercials, TV, and social media. Just like that.
 
+## Gallery
+
+{% include image-gallery.html folder="/uploads/album" %}
 
 ## They trusted us
 
