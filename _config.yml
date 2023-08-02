@@ -1,14 +1,13 @@
 # Site Settings
 name: Abarel
 title: Abarel | A film studio for all
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+description: Unleash Your Brand's Potential with Abarel Studios | Top Video Production for Ads, Commercials, TV Billboards, and Explainer Videos.
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - commercials
+  - explainer video
+  - photography
+  - animation
 show_hero: true
 menu:
   - title: Home
@@ -23,7 +22,7 @@ email: studio@abarel.com
 # See: https://disqus.com/
 disqus_username: disqus_username
 # Contact Form Setting
-# See: https://formspree.io/
+# See: https://formspree.io/ +Abarel use it!
 formspree_form_id: xoqojnvl
 
 
