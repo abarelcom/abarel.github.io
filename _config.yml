@@ -1,7 +1,7 @@
 # Site Settings
-name: Abarel
-title: Abarel | A film studio for all
-description: Unleash Your Brand's Potential with Abarel Studios | Top Video Production for Ads, Commercials, TV Billboards, Product Videos, Brand Videos, Animations, Social Media Videos, Explainer Videos and Video Marketing.
+name: Abarel Studio
+title: Abarel Video Production
+description: Abarel Studio | Top Video Production for Ads, Commercials, TV Billboards, Product Videos, Brand Videos, Animations, Social Media Videos, Explainer Videos and Video Marketing.
 tags:
   - blog
   - commercials
@@ -62,7 +62,7 @@ collections:
     output: true
 paginate_path: "/page/:num/"
 show_get_theme_btn: true
-use_logo: false
+use_logo: true
 
 # Content paginator
 paginate_content:
