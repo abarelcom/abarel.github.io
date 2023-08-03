@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Motion design
-slug: motion design
+slug: motion
 description: A category of motion design.
 ---
