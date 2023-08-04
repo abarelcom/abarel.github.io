@@ -4,9 +4,8 @@ layout: post
 title: Adriatica Swiss Watches - TV Commercial
 subtitle: Commercial
 description: A bit of luxury with the spring collection of Adriatica. New advertising spot for a women's collection of Adriatica Swiss Watches.
-image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_fill,h_400,w_800,x_0,y_0/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
- 
-optimized_image: https://res.cloudinary.com/uvtw6u5e/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
+image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_fill,h_400,w_800/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
+optimized_image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_fill,h_200,w_400/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
 category: commercial
 tags:
   - TV Commercial
@@ -59,6 +58,8 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 </Image>
 
 
+## Rubi
+cl_image_tag("abarel-studio/Adriatica-swiss-watches_tv-ads.jpg", :height=>625, :width=>1000, :crop=>"fill")
 
 
 
