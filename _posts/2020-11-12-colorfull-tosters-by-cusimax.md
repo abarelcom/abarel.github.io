@@ -5,7 +5,7 @@ title: Colorfull toster by Cusimax
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_scale,w_800/v1690535780/cld-sample-3.jpg
-optimized_image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_scale,w_380/v1690535780/cld-sample-3.jpg
+optimized_image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_fill,h_200,w_380,x_0,y_0/v1690535780/cld-sample-3.jpg
 category: commercial
 tags:
   - food
