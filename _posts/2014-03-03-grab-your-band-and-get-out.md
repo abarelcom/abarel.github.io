@@ -84,7 +84,10 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 ![placeholder](https://placehold.it/800x400 "Large example image")
 ![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
+![placeholder](https://placehold.it/200x200 "Small example image") 
+https://placehold.it/200x200 
+
+<image src="https://picsum.photos/800/600" alt="Image description"><image src="https://picsum.photos/800/600" alt="Image description"><image src="https://picsum.photos/800/600" alt="Image description">
 
 ## Tables
 
