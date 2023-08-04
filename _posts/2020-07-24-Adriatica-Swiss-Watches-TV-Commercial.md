@@ -6,7 +6,7 @@ subtitle: Commercial
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/duvtw6u5e/image/upload/c_fill,h_400,w_800,x_0,y_0/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
  
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559822138/theme9_v273a9.jpg
+optimized_image: https://res.cloudinary.com/uvtw6u5e/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
 category: commercial
 tags:
   - TV Commercial
