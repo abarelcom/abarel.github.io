@@ -18,7 +18,7 @@ Our productions are made explicitly for all communication purposes. From concept
 
 ## Gallery
 
-
+{% include my-gallery.html folder="gallery" %}
 
 ## They trusted us
 
