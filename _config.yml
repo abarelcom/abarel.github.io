@@ -111,3 +111,7 @@ exclude: [
 # Theme
 #version: v3.1.2
 version: Film Studio
+
+# Image dallery
+imagesurl: "/gallery/img/"
+thumbsurl: "/gallery/thumbs/"
