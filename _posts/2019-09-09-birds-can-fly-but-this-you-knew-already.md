@@ -28,8 +28,8 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 <div class ="image-gallery">
 {% for name in filenames %}
     <div class="box">
-    <a href="../uploads/album/ {{ name }}">
-      <img src="../uploads/thumbs/ {{ name }} " alt="{{ name }}"  class="img-gallery" />
+    <a href="../uploads/album/{{ name }}">
+      <img src="../uploads/thumbs/{{ name }}" alt="{{ name }}"  class="img-gallery" />
      </a>
     </div>
  {% endfor %}
