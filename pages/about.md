@@ -29,5 +29,5 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 ![placeholder](https://placehold.it/200x200 "Small example image")
 ![placeholder](https://placehold.it/200x200 "Small example image") 
 
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
-<link rel="stylesheet" href="/assets/css/lightbox.css">
+<script type="text/javascript" src="/abarel.github.io/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/abarel.github.io/assets/css/lightbox.css">
