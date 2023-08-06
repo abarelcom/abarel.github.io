@@ -20,6 +20,11 @@ Our productions are made explicitly for all communication purposes. From concept
 
 {% include image-gallery.html folder="/uploads/thumbs" %}
 
+
+<!--- wsrv.nl/lichtenstein.jpg --->
+![Lichtenstein](https://wsrv.nl/?url=https://placehold.it/400x400&w=100&h=100)
+
+
 ## They trusted us
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
