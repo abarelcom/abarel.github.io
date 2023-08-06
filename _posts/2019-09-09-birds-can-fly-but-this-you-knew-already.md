@@ -24,12 +24,21 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-{% include my-gallery.html folder="/uploads" %}
+{% assign filenames = "img1.png,img2.png,img3.png" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="../uploads/album/image02.jpg {{ name }}">
+      <img src="../uploads/thumbs/image02.jpg {{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div>
 
 
 
 
-
+Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
 
 
