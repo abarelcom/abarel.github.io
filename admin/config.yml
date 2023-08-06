@@ -137,7 +137,7 @@ collections:
     folder: "_authors/"
     create: true
     editor:
-      preview: false
+      preview: true
     fields:
       - label: "Layout"
         name: "layout"
