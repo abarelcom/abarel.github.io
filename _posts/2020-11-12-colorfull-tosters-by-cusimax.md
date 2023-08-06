@@ -16,3 +16,13 @@ author: abarel
 Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 
+{% assign sorted_gallery = site.photo_gallery | sort: 'weight' %}
+<ul class="photo-gallery">
+  {% for image in sorted_gallery %}
+    <li>
+      <a href="{{ image.link }}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+    </li>
+  {% endfor %}
+</ul>
