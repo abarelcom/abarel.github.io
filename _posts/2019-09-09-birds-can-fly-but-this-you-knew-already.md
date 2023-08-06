@@ -24,7 +24,7 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
-{% assign filenames = "image02.jpg, image01.jpg", image01.jpg, image04.jpg | split: "," %}
+{% assign filenames = "image02.jpg,image01.jpg",image01.jpg,image04.jpg | split: "," %}
 <div class ="image-gallery">
 {% for name in filenames %}
     <div class="box">
