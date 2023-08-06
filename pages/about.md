@@ -29,3 +29,5 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 ![placeholder](https://placehold.it/200x200 "Small example image")
 ![placeholder](https://placehold.it/200x200 "Small example image") 
 
+<script type="text/javascript" src="/js/lightbox.js"></script>
+<link rel="stylesheet" href="/css/lightbox.css">
