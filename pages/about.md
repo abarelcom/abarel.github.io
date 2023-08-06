@@ -21,19 +21,6 @@ Our productions are made explicitly for all communication purposes. From concept
 {% include image-gallery.html folder="/uploads/album" %}
 
 
-## Trast us
-
-
-{% assign filenames = "image02.jpg,image01.jpg,image01.jpg,image04.jpg" | split: "," %}
-<div class ="image-gallery">
-{% for name in filenames %}
-    <div class="box">
-      <img src="../uploads/thumbs/{{ name }}" alt="{{ name }}"  class="img-gallery" />
-    </div>
- {% endfor %}
-</div>
-
-
 ## They trusted us
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
