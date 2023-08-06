@@ -112,6 +112,3 @@ exclude: [
 #version: v3.1.2
 version: Film Studio
 
-# Image dallery
-imagesurl: "/uploads/album/"
-thumbsurl: "/mysite/thumbs/"
