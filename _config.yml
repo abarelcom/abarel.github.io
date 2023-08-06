@@ -113,5 +113,5 @@ exclude: [
 version: Film Studio
 
 # Image dallery
-imagesurl: "/gallery/img/"
-thumbsurl: "/gallery/thumbs/"
+imagesurl: "/uploads/album/"
+thumbsurl: "/mysite/thumbs/"
