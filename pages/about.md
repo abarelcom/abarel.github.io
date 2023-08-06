@@ -18,19 +18,13 @@ Our productions are made explicitly for all communication purposes. From concept
 
 ## Gallery
 
-{% include image-gallery.html folder="/uploads/thumbs" %}
-
-
-<!--- wsrv.nl/lichtenstein.jpg --->
-![obrazek nazwa](https://wsrv.nl/?url=https://placehold.it/400x400&w=200&h=200)
-![obrazek nazwa](https://wsrv.nl/?url=https://placehold.it/400x400&w=200&h=200)
-![obrazek nazwa](https://wsrv.nl/?url=https://placehold.it/400x400&w=200&h=200)
+{% include image-gallery.html folder="/uploads/album" %}
 
 
 ## They trusted us
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](https://placehold.it/200x200 "Small example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-![placeholder](https://placehold.it/200x200 "Small example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-![placeholder](https://placehold.it/200x200 "Small example image") ![placeholder](https://placehold.it/200x200 "Small example image") ![placeholder](https://placehold.it/200x200 "Small example image")
+![placeholder](https://placehold.it/200x200 "Small example image") 
+![placeholder](https://placehold.it/200x200 "Small example image")
+![placeholder](https://placehold.it/200x200 "Small example image") 
