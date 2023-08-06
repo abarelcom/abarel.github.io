@@ -29,13 +29,3 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 ![placeholder](https://placehold.it/200x200 "Small example image")
 ![placeholder](https://placehold.it/200x200 "Small example image") 
 
-
----
-galleries:
-  - title: Link to homepage
-    image: /uploads/thumbs/image01.jpg
-    url: /
-  - title: Link to image gallery
-    image: /uploads/thumbs/image02.jpg
-    url: /without-plugin/image-gallery
----
