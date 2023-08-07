@@ -21,7 +21,7 @@ Our productions are made explicitly for all communication purposes. From concept
 {% include image-gallery.html folder="/uploads/album" %}
 
 
-## They trusted us!
+## They trusted us
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
