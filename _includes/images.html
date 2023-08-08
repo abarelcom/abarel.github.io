@@ -1,0 +1,12 @@
+<img src=“filepath/{{ include.img_name }}_{{ include.w2 }}.jpg”
+srcset="{{ site.baseurl }}/filepath/{{ include.img_name }}_{{ include.w1 }}.jpg {{ include.w1 }}w,
+{{ site.baseurl }}/filepath/{{ include.img_name }}_{{ include.w2 }}.jpg {{ include.w2 }}w,
+{{ site.baseurl }}/filepath/{{ include.img_name }}_{{ include.w3 }}.jpg {{ include.w3 }}w
+   {% if include.w4 %}
+   , {{ site.baseurl }}/filepath/{{ include.img_name }}_{{ include.w4 }}.jpg {{ include.w4 }}w
+   {% endif %}
+   {% if include.w5 %}
+   , {{ site.baseurl }}/filepath/{{ include.img_name }}_{{ include.w5 }}.jpg {{ include.w5 }}w
+   {% endif %}"
+sizes=“(min-width: 650px) calc(50vw - 20px), (min-width: 1100px) calc(33vw - 20px), 100w”
+alt="{{ include.img_alt }}">
