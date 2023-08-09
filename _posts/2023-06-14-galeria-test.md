@@ -24,6 +24,10 @@ Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur puru
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
+## Responsive Image Grid
+
+Resize the browser window to see the responsive effect.
+
 <style>
 * {
   box-sizing: border-box;
@@ -80,12 +84,6 @@ body {
 }
 </style>
 <body>
-
-<!-- Header -->
-<div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
-</div>
 
 <!-- Photo Grid -->
 <div class="row"> 
