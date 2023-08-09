@@ -23,6 +23,55 @@ Our productions are made explicitly for all communication purposes. From concept
 
 ## They trusted us!
 
+
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Logo gallery</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
+     <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
+
+
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
 ![placeholder](https://placehold.it/200x200 "Small example image") 
