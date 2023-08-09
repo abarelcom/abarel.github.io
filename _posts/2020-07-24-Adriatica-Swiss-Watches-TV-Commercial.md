@@ -11,7 +11,7 @@ tags:
   - TV Commercial
   - Ads
   - E-commerce
-author: fryderyk_szandala
+author: fryderyk-szandala
 ---
 Advertisement commissioned by Alkor the exclusive distributor of Swiss Adriatica watches. Material prepared for broadcast on TV for the new spring collection of Adriatica. 
 
