@@ -7,7 +7,7 @@ description: Abarel photo studio creates engaging food sesion for commercials, b
 permalink: /photo/
 ---
 
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
+image: https://res.cloudinary.com/abarelcloud/image/upload/c_fill,h_399,w_760/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
 
 # About Abarel Studio
 
