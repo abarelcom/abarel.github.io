@@ -4,10 +4,10 @@ menu: false
 date: '2020-01-27 01:53:59'
 title: Photo Studio Garllery
 description: Abarel photo studio creates engaging food sesion for commercials, brand, video ads, including commercials created by AI.
-permalink: /gallery_food/
+permalink: /gallery-food/
 ---
 
-<img class="img-rounded" src="../assets/img/uploads/abarel_profile.png" alt="Abarel Studio Logo" width="200"> 
+image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825145/theme16_o0seet.jpg
 
 # About Abarel Studio
 
