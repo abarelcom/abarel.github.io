@@ -1,7 +1,7 @@
 ---
 layout: author
-photo: ../assets/img/uploads/fryderyk_szandala.jpg
-name: fryderyk_szandala
+photo: ../assets/img/uploads/fryderyk-szandala.jpg
+name: fryderyk-szandala
 display_name: Fryderyk Szandala 
 position: production
 bio: sasasasasasas
