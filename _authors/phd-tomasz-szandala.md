@@ -1,7 +1,7 @@
 ---
 layout: author
-photo: ../assets/img/uploads/tomasz_szandala.jpg
-name: tomasz_szandala
+photo: ../assets/img/uploads/tomasz-szandala.jpg
+name: tomasz-szandala
 display_name: PhD Tomasz Szandala 
 position: What's Up Doc?
 bio: Senior DevOps, Site Reliability Engineer & Lecturer.
