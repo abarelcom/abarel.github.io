@@ -43,9 +43,9 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-image: https://res.cloudinary.com/uvtw6u5e/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
-image: https://res.cloudinary.com/uvtw6u5e/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
-image: https://res.cloudinary.com/uvtw6u5e/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
+image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
+image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
+image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691144841/Abarel%20web/Adriatica-swiss-watches_equybq.jpg
 
 Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
 
