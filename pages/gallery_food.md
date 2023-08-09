@@ -17,3 +17,107 @@ From masterpieces born of human ingenuity to groundbreaking ads conjured with th
 Our productions are made explicitly for all communication purposes. From concept and scriptwriting to image recording and post-production, sound mixing up to delivering the final product for commercials, TV, and social media. Just like that.
 
 ## Gallery
+
+<html>
+<head>
+<style>
+* {
+  background: #111;
+}
+
+img {
+  width: 100%;
+}
+.photo-grid-container {
+  column-count: 5;
+  column-width: 300px;
+}
+.photo-grid-item {
+  margin: 0 auto 15px;
+  max-width: 400px;
+  width: 100%;
+}
+</style>
+</head>
+<body>
+	 <section class="photo-grid-container">
+      <div class="photo-grid-item">
+        <img src="images/img1.jpg" alt="" />
+      </div>
+     <div class="photo-grid-item">
+        <img src="images/img2.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">  <img src="images/img3.jpg" alt="" /></div>
+
+   <div class="photo-grid-item">
+        <img src="images/img4.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img5.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img6.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img7.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img8.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img9.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img10.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img11.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img12.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img13.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img14.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img15.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img16.jpg" alt="" />
+      </div>
+
+  <div class="photo-grid-item">
+        <img src="images/img17.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img18.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img19.jpg" alt="" />
+      </div>
+
+   <div class="photo-grid-item">
+        <img src="images/img20.jpg" alt="" />
+      </div>
+
+   </section>
+  </body>
+</html>
