@@ -21,9 +21,6 @@ Our productions are made explicitly for all communication purposes. From concept
 <html>
 <head>
 <style>
-* {
-  background: #111;
-}
 
 img {
   width: 100%;
