@@ -58,10 +58,6 @@ Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur e
 </Image>
 
 
-## Rubi
-cl_image_tag("abarel-studio/Adriatica-swiss-watches_tv-ads.jpg", :height=>625, :width=>1000, :crop=>"fill")
-
-
 
 
 
