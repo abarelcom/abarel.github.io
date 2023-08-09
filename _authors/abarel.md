@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: ../assets/img/uploads/abarel_profile.png
+photo: ../assets/img/uploads/abarel-studio.png
 name: abarel
 display_name: Abarel Studio Team 
 position: The One
