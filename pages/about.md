@@ -18,11 +18,16 @@ Our productions are made explicitly for all communication purposes. From concept
 
 ## Gallery
 
+Include use image-gallery.html 
+1-row with up image as big
+
 {% include image-gallery.html folder="/uploads/album" %}
 
 
 ## They trusted us!
 
+How to create side-by-side images with the CSS float property:
+Extar for logo gallery, no show-up
 
 <html>
 <head>
@@ -46,9 +51,6 @@ Our productions are made explicitly for all communication purposes. From concept
 </style>
 </head>
 <body>
-
-<h2>Logo gallery</h2>
-<p>How to create side-by-side images with the CSS float property:</p>
 
 <div class="row">
   <div class="column">
