@@ -1,13 +1,13 @@
 ---
 layout: page
-menu: false
+menu: true
 date: '2020-02-27 01:53:59'
 title: About Abarel
 description: Abarel video production studio creates engaging commercials, brand content, animated explainers, food video, and TV ads, including commercials created by AI.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="../assets/img/uploads/abarel_profile.png" alt="Abarel Studio Logo" width="200"> 
+<img class="img-rounded" src="../assets/img/uploads/abarel-studio.png" alt="Abarel Studio Logo" width="200"> 
 
 # About Abarel Studio
 
