@@ -17,6 +17,8 @@ menu:
     url: /
   - title: About
     url: /about
+  - title: Gellery
+    url: /photo
   - title: Contact
     url: /contact
   - title: Feed
