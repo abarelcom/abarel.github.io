@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: true
-date: '2020-01-27 01:53:59'
+date: '2023-07-27 01:53:59'
 title: Photo Studio Garllery
 description: Abarel photo studio creates engaging food sesion for commercials, brand, video ads, including commercials created by AI.
 permalink: /photo/
