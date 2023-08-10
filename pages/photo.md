@@ -39,10 +39,10 @@ img {
 <body>
 	 <section class="photo-grid-container">
       <div class="photo-grid-item">
-        <img src="images/img1.jpg" alt="" />
+        <img src="assets/images/demo/img1.jpg" alt="" />
       </div>
      <div class="photo-grid-item">
-        <img src="images/img2.jpg" alt="" />
+        <img src="assets/images/demo//img2.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">  
