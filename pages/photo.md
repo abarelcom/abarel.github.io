@@ -45,7 +45,8 @@ img {
         <img src="images/img2.jpg" alt="" />
       </div>
 
-   <div class="photo-grid-item">  <img src="images/img3.jpg" alt="" /></div>
+   <div class="photo-grid-item">  
+        <img src="images/img3.jpg" alt="" /></div>
 
    <div class="photo-grid-item">
         <img src="images/img4.jpg" alt="" />
