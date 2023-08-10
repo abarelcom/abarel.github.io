@@ -1,4 +1,6 @@
-<div class="simage-gallery-mini">
+<!-- https://talk.jekyllrb.com/t/about-generating-responsive-image-gallery-from-any-folder/3196 -->
+
+<div class="image-gallery-mini">
 {% for file in site.static_files %}
   {% if file.path contains include.folder %}
     {% if file.extname == '.jpg' or 
