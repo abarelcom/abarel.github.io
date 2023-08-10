@@ -39,81 +39,81 @@ img {
 <body>
 	 <section class="photo-grid-container">
       <div class="photo-grid-item">
-        <img src="assets/images/demo/img1.jpg" alt="" />
+        <img src="../assets/images/demo/img1.jpg" alt="" />
       </div>
      <div class="photo-grid-item">
-        <img src="assets/images/demo//img2.jpg" alt="" />
+        <img src="../assets/images/demo//img2.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">  
-        <img src="images/img3.jpg" alt="" /></div>
+        <img src="../assets/images/demo/img3.jpg" alt="" /></div>
 
    <div class="photo-grid-item">
-        <img src="images/img4.jpg" alt="" />
+        <img src="../assets/images/demo/img4.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img5.jpg" alt="" />
+        <img src="../assets/images/demo/img5.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img6.jpg" alt="" />
+        <img src="../assets/images/demo/img6.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img7.jpg" alt="" />
+        <img src="../assets/images/demo/img7.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img8.jpg" alt="" />
+        <img src="../assets/images/demo/img8.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img9.jpg" alt="" />
+        <img src="../assets/images/demo/img9.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img10.jpg" alt="" />
+        <img src="../assets/images/demo/img10.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img11.jpg" alt="" />
+        <img src="../assets/images/demo/img11.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img12.jpg" alt="" />
+        <img src="../assets/images/demo/img12.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img13.jpg" alt="" />
+        <img src="../assets/images/demo/img13.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img14.jpg" alt="" />
+        <img src="../assets/images/demo/img14.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img15.jpg" alt="" />
+        <img src="../assets/images/demo/img15.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img16.jpg" alt="" />
+        <img src="../assets/images/demo/img16.jpg" alt="" />
       </div>
 
   <div class="photo-grid-item">
-        <img src="images/img17.jpg" alt="" />
+        <img src="../assets/images/demo/img17.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img18.jpg" alt="" />
+        <img src="../assets/images/demo/img18.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img19.jpg" alt="" />
+        <img src="../assets/images/demo/img19.jpg" alt="" />
       </div>
 
    <div class="photo-grid-item">
-        <img src="images/img20.jpg" alt="" />
+        <img src="../assets/images/demo/img20.jpg" alt="" />
       </div>
 
    </section>
