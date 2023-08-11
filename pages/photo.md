@@ -119,3 +119,7 @@ img {
    </section>
   </body>
 </html>
+
+<!-- Nie do tego-->
+<script type="text/javascript" src="/abarel.github.io/assets/js/lightbox.js"></script>
+<link rel="stylesheet" href="/abarel.github.io/assets/css/lightbox.css">
