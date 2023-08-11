@@ -90,21 +90,18 @@ body {
 <!-- Photo Grid -->
 <div class="row"> 
   <div class="column">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/falls2.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
+    <img src="/assets/images/cakes/apple-pie.jpg" style="width:100%">
+    <img src="/assets/images/cakes/birthday-cake.jpg" style="width:100%">
+    <img src="/assets/images/cakes/black-forest.jpg" style="width:100%">
+    <img src="/assets/images/cakes/brownie.jpg" style="width:100%"> 
+    <img src="/assets/images/cakes/cheese-cake.jpg" style="width:100%">
   </div>
   <div class="column">
-    <img src="/w3images/underwater.jpg" style="width:100%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/assets/images/cakes2/bg.jpg" style="width:100%">
+    <img src="/assets/images/cakes2/bread.jpg" style="width:100%">
+    <img src="/assets/images/cakes2/cookie.jpg" style="width:100%">
+    <img src="/assets/images/cakes2/cupcake.jpg" style="width:100%"> 
+    <img src="/assets/images/cakes2/lemon-cake.jpg" style="width:100%">
   </div>  
   <div class="column">
     <img src="/w3images/wedding.jpg" style="width:100%">
