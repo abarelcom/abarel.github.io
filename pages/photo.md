@@ -6,7 +6,6 @@ title: Photo Studio Garllery
 description: Abarel photo studio creates engaging food sesion for commercials, brand, video ads, including commercials created by AI.
 permalink: /photo/
 ---
-
 # About Abarel Studio
 
 Abarel is a cutting-edge video production and online B2B marketing agency that unleashes boundless creativity. Our expertise spans across crafting captivating brand content, dynamic animated explainers, awesome TV ads, 
@@ -107,13 +106,13 @@ img {
       </div>
 
    <div class="photo-grid-item">
-       <a href="../assets/images/demo/img20.jpg"> <img src="../assets/images/demo/img20.jpg" alt="" /></a>
+       <a href="../assets/images/demo/img20.jpg"> <img src="../assets/images/demo/img20.jpg" alt="nazwa" /></a>
       </div>
 
    </section>
   </body>
 </html>
 
-<!-- Nie do tego-->
+<!-- Nie do tego ale działą-->
 <script type="text/javascript" src="/abarel.github.io/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/abarel.github.io/assets/css/lightbox.css">
