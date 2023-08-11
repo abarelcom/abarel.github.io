@@ -49,9 +49,9 @@ body {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -ms-flex: 25%; /* IE10 */
-  flex: 25%;
-  max-width: 25%;
+  -ms-flex: 33%; /* IE10 */
+  flex: 33%;
+  max-width: 33%;
   padding: 0 4px;
 }
 
@@ -81,11 +81,6 @@ body {
 </style>
 <body>
 
-<!-- Header -->
-<div class="header">
-  <h1>Responsive Image Grid</h1>
-  <p>Resize the browser window to see the responsive effect.</p>
-</div>
 
 <!-- Photo Grid -->
 <div class="row"> 
@@ -104,21 +99,11 @@ body {
     <img src="/abarel.github.io/assets/images/cakes2/lemon-cake.jpg" style="width:100%">
   </div>  
   <div class="column">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/falls2.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-    <img src="/w3images/nature.jpg" style="width:100%">
-    <img src="/w3images/mist.jpg" style="width:100%">
-    <img src="/w3images/paris.jpg" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="/w3images/underwater.jpg" style="width:100%">
-    <img src="/w3images/ocean.jpg" style="width:100%">
-    <img src="/w3images/wedding.jpg" style="width:100%">
-    <img src="/w3images/mountainskies.jpg" style="width:100%">
-    <img src="/w3images/rocks.jpg" style="width:100%">
-    <img src="/w3images/underwater.jpg" style="width:100%">
+    <img src="/abarel.github.io/assets/images/cakes/apple-pie.jpg" style="width:100%">
+    <img src="/abarel.github.io/assets/images/cakes/birthday-cake.jpg" style="width:100%">
+    <img src="/abarel.github.io/assets/images/cakes/black-forest.jpg" style="width:100%">
+    <img src="/abarel.github.io/assets/images/cakes/brownie.jpg" style="width:100%"> 
+    <img src="/abarel.github.io/assets/images/cakes/cheese-cake.jpg" style="width:100%">
   </div>
 </div>
 
