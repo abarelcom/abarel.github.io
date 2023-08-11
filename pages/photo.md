@@ -7,8 +7,6 @@ description: Abarel photo studio creates engaging food sesion for commercials, b
 permalink: /photo/
 ---
 
-![placeholder](https://res.cloudinary.com/abarelcloud/image/upload/c_fill,h_399,w_760/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg "Large example image")
-
 # About Abarel Studio
 
 Abarel is a cutting-edge video production and online B2B marketing agency that unleashes boundless creativity. Our expertise spans across crafting captivating brand content, dynamic animated explainers, awesome TV ads, tantalizing food commercials, captivating event coverage, and an array of other exciting offerings. 
@@ -46,7 +44,8 @@ img {
       </div>
 
    <div class="photo-grid-item">  
-        <img src="../assets/images/demo/img3.jpg" alt="" /></div>
+        <img src="../assets/images/demo/img3.jpg" alt="" />
+   </div>
 
    <div class="photo-grid-item">
         <img src="../assets/images/demo/img4.jpg" alt="" />
