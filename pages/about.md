@@ -37,8 +37,8 @@ Extar for logo gallery, no show-up
 }
 
 .column {
-  float: left;
-  width: 33.33%;
+  float: center;
+  width: 200px;
   padding: 5px;
 }
 
@@ -54,9 +54,9 @@ Extar for logo gallery, no show-up
 
 <div class="row">
   <div class="column">
-    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:200px">
-    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:200px">
-    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:200px">
+    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
   </div>
   <div class="column">
     <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
@@ -76,8 +76,9 @@ Extar for logo gallery, no show-up
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](https://placehold.it/200x200 "Small example image") 
-![placeholder](https://placehold.it/200x200 "Small example image"(https://placehold.it/200x200 "Small example image") 
+* ![placeholder](https://placehold.it/200x200 "Small example image") 
+* [![placeholder](https://placehold.it/200x200 "Small example image"
+* ![placeholder](https://placehold.it/200x200 "Small example image") 
 
 <script type="text/javascript" src="/abarel.github.io/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/abarel.github.io/assets/css/lightbox.css">
