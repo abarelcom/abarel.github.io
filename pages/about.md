@@ -16,13 +16,22 @@ From masterpieces born of human ingenuity to groundbreaking ads conjured with th
 
 Our productions are made explicitly for all communication purposes. From concept and scriptwriting to image recording and post-production, sound mixing up to delivering the final product for commercials, TV, and social media. Just like that.
 
+## Gallery-4 
+
+Include use image-gallery-4.html
+ 
+4 images in row without shows big images. Best for logos.
+
+{% include image-gallery-4.html folder="/uploads/album" %}
+
+
 ## Gallery
 
 Include use image-gallery.html
+ 
+3 images in row with link to shows big images. Best for nice gallery .
 
-1-row with up image as big
-
-{% include image-gallery-4.html folder="/uploads/album" %}
+{% include image-gallery.html folder="/uploads/album" %}
 
 
 ## They trusted us!
