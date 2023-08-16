@@ -60,7 +60,7 @@ body {
 }
 
 .column img {
-  margin-top: 8px;
+  margin-top: 4px;
   vertical-align: middle;
   width: 100%;
 }
