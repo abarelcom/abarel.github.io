@@ -18,7 +18,8 @@ Our productions are made explicitly for all communication purposes. From concept
 
 ## Gallery
 
-Include use image-gallery.html 
+Include use image-gallery.html
+ 
 1-row with up image as big
 
 {% include image-gallery.html folder="/uploads/album" %}
