@@ -16,7 +16,7 @@
            {% assign filenameparts = file.path | split: "/" %}
            {% assign filename = filenameparts | last | replace: file.extname,"" %}
             <li>
-                   <img src="//images.weserv.nl/?url=abarelcom.github.io/abarel.github.io/{{ file.path }}&w=300&h=300&output=jpg&q=50&t=square" alt="{{ filename }}" title="{{ filename }}" />
+                   <img src="//images.weserv.nl/?url=abarelcom.github.io/abarel.github.io/{{ file.path }}&w=300&h=200&output=jpg" alt="{{ filename }}" title="{{ filename }}" />
             </li>
         {% endif %}
     {% endif %}
