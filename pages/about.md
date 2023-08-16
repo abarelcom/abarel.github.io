@@ -25,7 +25,7 @@ Include use image-gallery-4.html
 {% include image-gallery-4.html folder="/uploads/album" %}
 
 
-## Gallery
+## Gallery w/Lightbox
 
 Include use image-gallery.html
  
