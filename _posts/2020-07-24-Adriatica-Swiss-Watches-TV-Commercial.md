@@ -35,29 +35,10 @@ Most of these elements are styled by browsers with few modifications on our part
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
 
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
-image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
-image: https://res.cloudinary.com/abarelcloud/image/upload/c_scale,w_380/v1691148213/abarel-studio/Adriatica-swiss-watches_tv-ads.jpg
-
-
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-<Image publicId="abarel-studio/Adriatica-swiss-watches_tv-ads.jpg" >
+<image publicId="abarel-studio/Adriatica-swiss-watches_tv-ads.jpg" >
   <Transformation height="675" width="1200" crop="fill" />
-</Image>
+</image>
 
 
 
