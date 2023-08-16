@@ -54,9 +54,9 @@ Extar for logo gallery, no show-up
 
 <div class="row">
   <div class="column">
-    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:100%">
-    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
-    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:100%">
+    <img src="https://www.w3schools.com/howto/img_snow.jpg" alt="Snow" style="width:200px">
+    <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:200px">
+    <img src="https://www.w3schools.com/howto/img_mountains.jpg" alt="Mountains" style="width:200px">
   </div>
   <div class="column">
     <img src="https://www.w3schools.com/howto/img_forest.jpg" alt="Forest" style="width:100%">
