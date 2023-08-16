@@ -37,8 +37,8 @@ Extar for logo gallery, no show-up
 }
 
 .column {
-  float: center;
-  width: 200px;
+  float: left;
+  width: 33.33%;
   padding: 5px;
 }
 
@@ -76,9 +76,9 @@ Extar for logo gallery, no show-up
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
 
-* ![placeholder](https://placehold.it/200x200 "Small example image") 
-* [![placeholder](https://placehold.it/200x200 "Small example image"
-* ![placeholder](https://placehold.it/200x200 "Small example image") 
+![placeholder](https://placehold.it/200x200 "Small example image") 
+![placeholder](https://placehold.it/200x200 "Small example image"
+![placeholder](https://placehold.it/200x200 "Small example image") 
 
 <script type="text/javascript" src="/abarel.github.io/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/abarel.github.io/assets/css/lightbox.css">
